@@ -5,3 +5,4 @@ print ("resultado=",c)
 # SOLO SE AGREGA ESTE COMENTARIO PARA DOCUMENTAR CAMBIO
 d = a + b # ESTA ES EL CAMBIO EN GIT
 print ("resultado de d=",d)
+# AQUI YA ESTAN LOS VALORES DE d
