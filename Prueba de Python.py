@@ -3,4 +3,6 @@ b = 30
 c = b * 30
 print ("resultado=",c)
 # SOLO SE AGREGA ESTE COMENTARIO PARA DOCUMENTAR CAMBIO
-c = a + b # ESTA ES EL CAMBIO EN GIT
+d = a + b # ESTA ES EL CAMBIO EN GIT
+print ("resultado de d=",d)
+# AQUI YA ESTAN LOS VALORES DE d
